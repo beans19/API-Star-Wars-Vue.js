@@ -1,8 +1,8 @@
-# novo_projeto_teste
+# Projeto API - Star Wars & Vue.JS
 
 ## Project setup
 ```
-npm install
+npm install -g @vue/cli
 ```
 
 ### Compiles and hot-reloads for development
